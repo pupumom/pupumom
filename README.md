@@ -1,4 +1,4 @@
-# 👋 안녕하세요! 저는 박영주입니다
+# 안녕하세요! 데이터 엔지니어 박영주입니다.
 
 데이터 기반 문제 해결과 서비스를 좋아하는 예비 데이터 엔지니어입니다.  
 통신사 인프라 운영 경험과 다양한 분석 프로젝트를 바탕으로  
@@ -6,22 +6,22 @@
 
 ---
 
-## 📄 이력서 & 포트폴리오
+## 이력서 & 포트폴리오
 
 - [Resume & Projects](https://github.com/pupumom/resume)
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 - [셀프주유소 vs 일반주유소 유가 비교 분석](https://github.com/pupumom/data_analysis)
 - [스타벅스 vs 이디야 입지 분석](https://github.com/pupumom/data_analysis)
-- [수영복 리뷰 기반 사이즈 추천 모델](https://github.com/pupumom/swim_fit_predictor)(진행 중)
-- [📰 Velog 전체 보기](https://velog.io/@yeongdecember)
+- [수영복 리뷰 기반 사이즈 추천 모델](https://github.com/pupumom/swim_fit_predictor)
+- [Velog 전체 보기](https://velog.io/@yeongdecember)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=sqlite&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌐 Online Presence
+## Online Presence
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@yeongdecember)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pupumom)
@@ -43,7 +43,7 @@
 
 ---
 
-## 👀 GitHub Stats
+## GitHub Stats
 
 ![visitors](https://komarev.com/ghpvc/?username=pupumom&label=Visitors&color=blue)
 
@@ -52,4 +52,4 @@
 
 ---
 
-> ✨ 꾸준히 성장하는 데이터 엔지니어, 영주입니다.
+> 꾸준히 성장하는 데이터 엔지니어가 되겠습니다.
