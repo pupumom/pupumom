@@ -18,7 +18,7 @@
 - [셀프주유소 vs 일반주유소 유가 비교 분석](https://github.com/pupumom/data_analysis/oil_price)
 - [스타벅스 vs 이디야 입지 분석](https://github.com/pupumom/data_analysis/ediya_vs_starbucks)
 
-- [Velog 전체 보기](https://velog.io/@yeongdecember)
+[Velog 전체 보기](https://velog.io/@yeongdecember)
 
 ---
 
