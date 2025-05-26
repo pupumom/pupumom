@@ -14,9 +14,10 @@
 
 ## Featured Projects
 
-- [셀프주유소 vs 일반주유소 유가 비교 분석](https://github.com/pupumom/data_analysis)
-- [스타벅스 vs 이디야 입지 분석](https://github.com/pupumom/data_analysis)
 - [수영복 리뷰 기반 사이즈 추천 모델](https://github.com/pupumom/swim_fit_predictor)
+- [셀프주유소 vs 일반주유소 유가 비교 분석](https://github.com/pupumom/data_analysis/oil_price)
+- [스타벅스 vs 이디야 입지 분석](https://github.com/pupumom/data_analysis/ediya_vs_starbucks)
+
 - [Velog 전체 보기](https://velog.io/@yeongdecember)
 
 ---
